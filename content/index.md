@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Документация проекта MyGarden
 ---
+Здесь можно изучить документацию для проекта MyGarden.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Основная страница - [[My Garden]] 
+ 
